@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>白小渔学习</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 白小渔学习</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Sep 2024 13:57:39 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20240917 英语学习</title>
+      <link>http://localhost:1313/post1/</link>
+      <pubDate>Tue, 17 Sep 2024 13:57:39 +0800</pubDate>
+      <guid>http://localhost:1313/post1/</guid>
+      <description>&lt;h2 id=&#34;hello&#34;&gt;Hello&lt;/h2&gt;&#xA;&lt;h3 id=&#34;音频测试mp3&#34;&gt;音频测试mp3&lt;/h3&gt;&#xA;&lt;audio controls preload=&#34;auto&#34;&gt;&#xA;    &lt;source src=&#34;media/audio.mp3&#34;&gt;&#xA;&lt;/audio&gt;&#xA;&#xA;&#xA;&lt;h3 id=&#34;音频测试wav&#34;&gt;音频测试wav&lt;/h3&gt;&#xA;&lt;audio controls preload=&#34;auto&#34;&gt;&#xA;    &lt;source src=&#34;media/audio.wav&#34;&gt;&#xA;&lt;/audio&gt;&#xA;&#xA;&#xA;&lt;h3 id=&#34;视频mp4&#34;&gt;视频mp4&lt;/h3&gt;&#xA;&lt;video controls preload=&#34;auto&#34;&gt;&#xA;    &lt;source src=&#34;media/1.mp4&#34;&gt;&#xA;&lt;/video&gt;</description>
+    </item>
+    <item>
+      <title>Post2</title>
+      <link>http://localhost:1313/post2/</link>
+      <pubDate>Tue, 17 Sep 2024 13:57:39 +0800</pubDate>
+      <guid>http://localhost:1313/post2/</guid>
+      <description>&lt;h2 id=&#34;hello&#34;&gt;Hello&lt;/h2&gt;&#xA;&lt;p&gt;ok&lt;/p&gt;&#xA;&lt;audio controls preload=&#34;auto&#34;&gt;&#xA;    &lt;source src=&#34;media/1.mp4&#34;&gt;&#xA;&lt;/audio&gt;&#xA;&#xA;&#xA;&lt;h2 id=&#34;hi&#34;&gt;Hi&lt;/h2&gt;&#xA;&lt;h3 id=&#34;fdsa&#34;&gt;fdsa&lt;/h3&gt;&#xA;&lt;p&gt;ox&lt;/p&gt;&#xA;&lt;p&gt;sfd&lt;/p&gt;&#xA;&lt;p&gt;fdas&lt;/p&gt;&#xA;&lt;p&gt;fdas&#xA;fdas&#xA;fdas&lt;/p&gt;&#xA;&lt;p&gt;fdas&lt;/p&gt;&#xA;&lt;p&gt;fdas&lt;/p&gt;&#xA;&lt;h1 id=&#34;dasfd&#34;&gt;dasfd&lt;/h1&gt;&#xA;&lt;p&gt;fdsaf&lt;/p&gt;&#xA;&lt;p&gt;fdsafd&lt;/p&gt;&#xA;&lt;p&gt;fdas&lt;/p&gt;&#xA;&lt;p&gt;fdas111&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
